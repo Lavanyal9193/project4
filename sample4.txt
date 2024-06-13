@@ -8,3 +8,14 @@
 <body><section style="background-color: blue; width: 1200px ;">
     <nav style="border: 2px solid black; height: 100px; width: 1200px;">
         <table>
+            <tr>
+               <td ><input type="text" name="" id="" style="background-color: gainsboro; width: 200px; color: black;" placeholder="LOGIN"></td><br><br>
+               <td ><input type="text" name="" id="" style="background-color:gainsboro;  width: 200px;"></td>
+               <td><input type="text" name="" id="" style="background-color: gainsboro;  width: 200px;"></td>
+               <td ><input type="text" name="" id="" style="background-color:gainsboro;  width: 200px;"></td>
+            </tr>
+        </table>
+    </nav>
+</section>
+</body>
+</html>
